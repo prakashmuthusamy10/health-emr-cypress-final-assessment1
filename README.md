@@ -106,3 +106,5 @@ cypress/videos/
 ---
 
 ## GitHub Repository
+
+https://github.com/prakashmuthusamy10/health-emr-cypress-final-assessment1.git
