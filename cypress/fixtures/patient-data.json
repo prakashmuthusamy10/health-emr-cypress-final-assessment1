@@ -1,0 +1,22 @@
+{
+  "login": {
+    "url": "https://healthapp.yaksha.com/",
+    "username": "admin",
+    "password": "pass123"
+  },
+  "patient": {
+    "salutation": "Mr.",
+    "firstName": "Shubham",
+    "middleName": "Kumar",
+    "lastName": "Doe",
+    "dateOfBirth": "1997-01-23",
+    "gender": "Male",
+    "phoneNumber": "5551234",
+    "country": "India",
+    "county": "Bangalore Urban",
+    "address": "123 Maple Street",
+    "wardNumber": "12",
+    "email": "shubham12@example.com",
+    "dialysisPatient": "No"
+  }
+}
